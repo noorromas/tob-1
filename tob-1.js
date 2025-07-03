@@ -60,7 +60,7 @@ div#l2 button {
 	margin-top: 1px!important;
 
 }
-#chats{background-color:#d4cfd2!important;background-image:url(https://up6.cc/2025/07/175150184952751.png);background-size:100%}#wall .uzr.d-flex.mm{border:1px solid transparent!important}#d2bc{background-image:url(https://up6.cc/2025/07/175150211381221.png);background-size:100%}#wall .fitimg.u-pic.borderg{height:52px!important;border:1px solid;border-radius:100px;box-shadow:0 0 0 #000000,inset 0 0 4px #000000,0 0 0 0 #000;margin-top:2px;margin-right:2px}
+#chats{background-color:#d4cfd2!important;background-image:url(https://up6.cc/2025/07/175150184952751.png);background-size:100%}
 
 }
 div#l1 input#u1, div#l3 button,div#l1 button {
